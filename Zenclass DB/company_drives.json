@@ -1,0 +1,50 @@
+[
+{
+  "companyName": "TechCorp",
+  "date": "2020-10-16",
+  "location": "Online",
+  "participants": [
+      {
+          "userId": 1,
+          "name": "Sam"
+      },
+      {
+          "userId": 2,
+          "name": "Alex"
+      }
+  ]
+},
+{
+  "companyName": "Innovate Inc.",
+  "date": "2020-10-25",
+  "location": "New York",
+  "participants": [
+      {
+          "userId": 3,
+          "name": "Jordan"
+      }
+  ]
+},
+{
+  "companyName": "FutureTech",
+  "date": "2020-10-29",
+  "location": "San Francisco",
+  "participants": [
+      {
+          "userId": 4,
+          "name": "Taylor"
+      }
+  ]
+},
+{
+    "companyName": "Guvigeek",
+    "date": "2020-11-05",
+    "location": "Chennai",
+    "participants": [
+      {
+        "userId": 5,
+        "name": "Morgan"
+      }
+    ]
+  }
+]

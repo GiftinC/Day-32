@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Morthy",
+    "email": "morthy@example.com",
+    "menteesCount": 20
+  },
+  {
+    "name": "Nina",
+    "email": "nina@example.com",
+    "menteesCount": 18
+  },
+  {
+    "name": "Raj",
+    "email": "raj@example.com",
+    "menteesCount": 22
+  },
+  {
+    "name": "Lara",
+    "email": "lara@example.com",
+    "menteesCount": 10
+  },
+  {
+    "name": "Ethan",
+    "email": "ethan@example.com",
+    "menteesCount": 12
+  }
+]

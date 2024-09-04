@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Build a webpage with HTML",
+        "date": "2020-09-30",
+        "dueDate": "2020-10-04",
+        "userId": 1,
+        "isCompleted": false,
+        "submittedDate": ""
+    },
+    {
+        "title": "Create a JavaScript Calculator",
+        "date": "2020-10-05",
+        "dueDate": "2020-10-09",
+        "userId": 2,
+        "isCompleted": false,
+        "submittedDate": ""
+    },
+    {
+        "title": "Design a CSS Layout",
+        "date": "2020-10-10",
+        "dueDate": "2020-10-14",
+        "userId": 3,
+        "isCompleted": false,
+        "submittedDate": ""
+    },
+    {
+        "title": "React To-Do List",
+        "date": "2020-10-15",
+        "dueDate": "2020-10-19",
+        "userId": 4,
+        "isCompleted": false,
+        "submittedDate": ""
+    },
+    {
+        "title": "Node.js API",
+        "date": "2020-10-20",
+        "dueDate": "2020-10-24",
+        "userId": 5,
+        "isCompleted": false,
+        "submittedDate": ""
+    }
+]

@@ -1,0 +1,42 @@
+[
+  {
+      "userId": 1,
+      "name": "Sam",
+      "absentDates": [
+          "2020-10-01",
+          "2020-10-15"
+      ]
+  },
+  {
+      "userId": 2,
+      "name": "Alex",
+      "absentDates": [
+          "2020-10-03",
+          "2020-10-20"
+      ]
+  },
+  {
+      "userId": 3,
+      "name": "Jordan",
+      "absentDates": [
+          "2020-10-08",
+          "2020-10-25"
+      ]
+  },
+  {
+      "userId": 4,
+      "name": "Taylor",
+      "absentDates": [
+          "2020-10-12",
+          "2020-10-18"
+      ]
+  },
+  {
+      "userId": 5,
+      "name": "Morgan",
+      "absentDates": [
+          "2020-10-10",
+          "2020-10-30"
+      ]
+  }
+]

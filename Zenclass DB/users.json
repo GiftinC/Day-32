@@ -1,0 +1,37 @@
+[
+    {
+        "userId": 1,
+        "name": "Sam",
+        "email": "sam@example.com",
+        "course": "MERN Stack",
+        "batch": "FSD58WE-T"
+    },
+    {
+        "userId": 2,
+        "name": "Alex",
+        "email": "alex@example.com",
+        "course": "Frontend Development",
+        "batch": "FSD59WE-T"
+    },
+    {
+        "userId": 3,
+        "name": "Jordan",
+        "email": "jordan@example.com",
+        "course": "Backend Development",
+        "batch": "FSD60WE-T"
+    },
+    {
+        "userId": 4,
+        "name": "Taylor",
+        "email": "taylor@example.com",
+        "course": "Full Stack Development",
+        "batch": "FSD61WE-T"
+    },
+    {
+        "userId": 5,
+        "name": "Morgan",
+        "email": "morgan@example.com",
+        "course": "Data Science",
+        "batch": "DS62WE-T"
+    }
+]
